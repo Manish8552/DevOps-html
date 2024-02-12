@@ -195,7 +195,7 @@ a:focus {
   background-size: 22px;
   background-repeat: no-repeat;
   background-position-y: 7px;
-  width: 35px;
+  width: 36px;
   height: 35px;
   padding: 0;
   border: none;
@@ -205,7 +205,7 @@ a:focus {
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
-  -webkit-box-align: center;
+  -webkit-box-align: left;
       -ms-flex-align: center;
           align-items: center;
 }
@@ -273,7 +273,7 @@ a:focus {
   text-transform: uppercase;
   text-orientation: upright;
   font-weight: bold;
-  color: #ffffff;
+  color: #725d5d;
 }
 
 .slider_section .slider_heading h2 span {
