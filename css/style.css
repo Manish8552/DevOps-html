@@ -1,6 +1,6 @@
 body {
   font-family: "Poppins", sans-serif;
-  color: #040000;
+  color: #4e4cd3b5;
   background-color: #63f74f;
 }
 
@@ -290,7 +290,7 @@ a:focus {
 .slider_section .detail-box hr {
   margin: 0 auto;
   border: none;
-  width: 1.5px;
+  width: 2.0px;
   height: 65px;
   background-color: #ffffff;
 }
@@ -476,7 +476,7 @@ a:focus {
   border-radius: 35px;
   color: #ffffff;
   margin: 35px auto 0 auto;
-  -webkit-box-shadow: 0 0 35px 0 rgba(99, 247, 79, 0.7);
+  -webkit-box-shadow: 0 0 35px 0 rgba(17, 142, 176, 0.7);
           box-shadow: 0 0 35px 0 rgba(99, 247, 79, 0.7);
 }
 
